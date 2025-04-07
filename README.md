@@ -1,6 +1,6 @@
 # Interplay of metallicity, ferroelectricity and layer charges in SmNiO3/BaTiO3 superlattices
 
-This repository contains all code needed to reproduce data analysis and figures in the publication XXX. The data needed to run the code available in the following repsitory XXX. 
+This repository contains all code needed to reproduce data analysis and figures in the publication (doi tbd). The data needed to run the code available in the following repository (doi tbd). 
 
 This repository contains the following files: 
 - The notebook "paper_figures.ipynb" reads in all the data and generates the figures in the same order as shown in the paper. 
